@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/user/repo/actions">
+  <a href="https://github.com/y-dev-ops/hand-gesture-recognition-system/actions">
     <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
   </a>
-  <a href="https://github.com/user/repo/blob/main/LICENSE">
+  <a href="https://github.com/y-dev-ops/hand-gesture-recognition-system/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
   </a>
-  <a href="https://github.com/user/repo/pulls">
+  <a href="https://github.com/y-dev-ops/hand-gesture-recognition-system/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
   </a>
-  <a href="https://github.com/user/repo/stargazers">
+  <a href="https://github.com/y-dev-ops/hand-gesture-recognition-system/stargazers">
     <img src="https://img.shields.io/github/stars/user/repo?style=social" alt="GitHub stars">
   </a>
 </p>
