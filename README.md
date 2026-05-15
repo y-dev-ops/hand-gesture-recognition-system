@@ -80,7 +80,7 @@ Follow these steps to get the system up and running:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/user/repo.git
+    git clone https://github.com/y-dev-ops/hand-gesture-recognition-system.git
     cd hand-gesture-recognition-system
     ```
 2.  **Create a Virtual Environment (Recommended)**:
