@@ -92,4 +92,6 @@ Follow these steps to get the system up and running:
         ```bash
         .\venv\Scripts\activate
         ```
-    
+## ⚖️ Acknowledgements & Third-Party
+This project utilizes the following open-source frameworks and technologies:
+* **[Google MediaPipe](https://github.com/google-ai-edge/mediapipe)** - Hand tracking and gesture recognition models (Licensed under the Apache License 2.0).
