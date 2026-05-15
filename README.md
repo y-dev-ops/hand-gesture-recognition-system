@@ -92,4 +92,4 @@ Follow these steps to get the system up and running:
         ```bash
         .\venv\Scripts\activate
         ```
-    *
+    
